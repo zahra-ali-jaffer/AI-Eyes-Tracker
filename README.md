@@ -26,7 +26,7 @@ EAR = (||p2 - p6|| + ||p3 - p5||) / (2 * ||p1 - p4||)
 | Pillow (PIL)    | Convert OpenCV images for Tkinter              |
 
 ## Usage
-python AI_Eyes_Tracker.py
-Green EAR values: eyes open
-Red "DROWSINESS ALERT!": eyes closed too long
-Click Exit button to close app safely
+- python AI_Eyes_Tracker.py
+- Green EAR values: eyes open
+- Red "DROWSINESS ALERT!": eyes closed too long
+- Click Exit button to close app safely
